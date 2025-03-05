@@ -1,6 +1,6 @@
 ---
 layout: default
-hide_in_nav: true
+hidden: true
 ---
 # Abyss Watchers
 
