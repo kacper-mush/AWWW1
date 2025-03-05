@@ -14,7 +14,7 @@ Aldrich appears to the player as a dark mass of bones and flesh with the upper b
 ## Search results - Dark Souls 3 Aldrich, Devourer of Gods difficulty:
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 - Updated boss difficulty tier list : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/fhl7p3/updated_boss_difficulty_tier_list/)
-- Aldrich, Devourer Of Gods - difficulty question : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/khzkfh/aldrich_devourer_of_gods_difficulty_question/)
+- What is Your Personal Ranking of Boss Difficulty? : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/5msg4f/what_is_your_personal_ranking_of_boss_difficulty/)
 
 ## Search results - Dark Souls 3 Aldrich, Devourer of Gods strategy:
 - PSA: How to easily avoid Aldrich's arrow storm and soul spears ... - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/5n1wj4/psa_how_to_easily_avoid_aldrichs_arrow_storm_and/)

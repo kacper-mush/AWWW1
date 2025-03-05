@@ -17,8 +17,8 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 
 ## Search results - Dark Souls 3 Dragonslayer Armour difficulty:
 - Why is Dragonslayer Armor so easy? : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/z17ko4/why_is_dragonslayer_armor_so_easy/)
-- Beating the bosses with their weapons: difficulty tier list [(link)](https://www.reddit.com/r/darksouls3/comments/oma0bl/beating_the_bosses_with_their_weapons_difficulty/)
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
+- Top 20 Hardest Bosses in Dark Souls 3: The Ultimate Ranking [(link)](https://www.fandomspot.com/ds3-hardest-bosses/)
 
 ## Search results - Dark Souls 3 Dragonslayer Armour strategy:
 - How To Beat Dragonslayer Armour in Dark Souls 3 - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-how-to-beat-dragonslayer-armour/)

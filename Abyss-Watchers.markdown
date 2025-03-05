@@ -1,6 +1,5 @@
 ---
 layout: default
-hidden: true
 ---
 # Abyss Watchers
 
@@ -13,11 +12,11 @@ The Abyss Watchers are tall humanoids clad in leather armor, wielding a greatswo
 [[More information on this site...]](https://darksouls3.wiki.fextralife.com//Abyss+Watchers)
 
 ## Search results - Dark Souls 3 Abyss Watchers difficulty:
-- Why on earth do people consider the Abyss Watchers to be easy? [(link)](https://www.reddit.com/r/darksouls3/comments/qseo02/why_on_earth_do_people_consider_the_abyss/)
 - Are the Abyss Watchers difficult? : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/4kpseq/are_the_abyss_watchers_difficult/)
-- Are the Abyss Watchers supposed to be such a large difficulty ... - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/pkphri/are_the_abyss_watchers_supposed_to_be_such_a/)
+- Why on earth do people consider the Abyss Watchers to be easy? [(link)](https://www.reddit.com/r/darksouls3/comments/qseo02/why_on_earth_do_people_consider_the_abyss/)
+- Opinions on the Abyss Watchers boss : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/t6qqd3/opinions_on_the_abyss_watchers_boss/)
 
 ## Search results - Dark Souls 3 Abyss Watchers strategy:
 - Abyss Watchers - Dark Souls 3 Wiki [(link)](https://darksouls3.wiki.fextralife.com/Abyss+Watchers)
+- Dark Souls 3: How To Beat The Abyss Watchers - Game Rant [(link)](https://gamerant.com/dark-souls-3-beat-abyss-watchers/)
 - I need tips on how to defeat the abyss watchers : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/9i1kj0/i_need_tips_on_how_to_defeat_the_abyss_watchers/)
-- Tips for defeating the Abyss Watchers as a Sorcerer? [(link)](https://www.reddit.com/r/darksouls3/comments/tg9dqd/tips_for_defeating_the_abyss_watchers_as_a/)

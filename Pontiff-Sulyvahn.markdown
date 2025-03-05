@@ -22,5 +22,5 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 
 ## Search results - Dark Souls 3 Pontiff Sulyvahn strategy:
 - Does anyone have pontiff sulyvahn tips? : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/10mdxno/does_anyone_have_pontiff_sulyvahn_tips/)
-- How To Beat Pontiff Sulyvahn in Dark Souls 3 - Game Voyagers [(link)](https://gamevoyagers.com/how-to-beat-pontiff-sulyvahn-in-dark-souls-3/)
+- SL1 Guide : Pontiff Sulyvahn, No parry method : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/4jyhia/sl1_guide_pontiff_sulyvahn_no_parry_method/)
 - Pontiff Sulyvahn Strategy? - Dark Souls III - GameFAQs [(link)](https://gamefaqs.gamespot.com/boards/168545-dark-souls-iii/75469212)

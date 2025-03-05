@@ -16,9 +16,9 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 [[More information on this site...]](https://darksouls3.wiki.fextralife.com//Crystal+Sage)
 
 ## Search results - Dark Souls 3 Crystal Sage difficulty:
+- Crystal Sage : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/pv5fjr/crystal_sage/)
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 - When does the difficulty of an sl1 run really kick in for you guys? [(link)](https://steamcommunity.com/app/374320/discussions/0/3043857610271608450/)
-- All Dark Souls 3 Bosses In Order - Game Rant [(link)](https://gamerant.com/dark-souls-3-ds3-all-bosses-in-order/)
 
 ## Search results - Dark Souls 3 Crystal Sage strategy:
 - Crystal Sage Location | Dark Souls 3 [(link)](https://darksouls3.wiki.fextralife.com/Crystal+Sage)

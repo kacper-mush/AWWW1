@@ -17,10 +17,10 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 
 ## Search results - Dark Souls 3 Deacons of the Deep difficulty:
 - Are The Deacons of the Deep Supposed to Be Easy? : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/s03rdx/are_the_deacons_of_the_deep_supposed_to_be_easy/)
-- A few people were concerned regarding the difficulty of the Deacons of ... [(link)](https://www.reddit.com/r/darksouls3/comments/sldy7z/a_few_people_were_concerned_regarding_the/)
 - Deacons of the Deep as a caster/pyro - Dark Souls III - GameFAQs [(link)](https://gamefaqs.gamespot.com/boards/168566-dark-souls-iii/73615557)
+- When does the difficulty of an sl1 run really kick in for you guys? [(link)](https://steamcommunity.com/app/374320/discussions/0/3043857610271608450/)
 
 ## Search results - Dark Souls 3 Deacons of the Deep strategy:
-- Deacons of the Deep / Boss Guide / Dark Souls 3 / Simple Strategy ... [(link)](https://www.youtube.com/watch?v=Le91t9XfNns)
 - Deacons of the Deep - Dark Souls 3 Guide - IGN [(link)](https://www.ign.com/wikis/dark-souls-3/Deacons_of_the_Deep)
+- Deacons of the Deep / Boss Guide / Dark Souls 3 / Simple Strategy ... [(link)](https://www.youtube.com/watch?v=Le91t9XfNns)
 - Dark Souls 3 Deacons of the Deep Strategy Guide - YouTube [(link)](https://www.youtube.com/watch?v=3Bm0w1WkQxM)

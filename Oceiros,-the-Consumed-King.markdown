@@ -13,8 +13,8 @@ It can be assumed that he is blind (like Seath), as his eye sockets are empty, a
 
 ## Search results - Dark Souls 3 Oceiros, the Consumed King difficulty:
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
-- Updated boss difficulty tier list : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/fhl7p3/updated_boss_difficulty_tier_list/)
 - Ranking the bosses in terms of difficulty! :: DARK SOULS™ III General ... [(link)](https://steamcommunity.com/app/374320/discussions/0/361787186432143026/)
+- All Dark Souls 3 Bosses In Order - Game Rant [(link)](https://gamerant.com/dark-souls-3-ds3-all-bosses-in-order/)
 
 ## Search results - Dark Souls 3 Oceiros, the Consumed King strategy:
 - Dark Souls 3: How To Beat Oceiros, The Consumed King - Game Rant [(link)](https://gamerant.com/dark-souls-3-beat-oceiros-the-consumed-king-guide/)

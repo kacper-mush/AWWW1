@@ -18,7 +18,7 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 ## Search results - Dark Souls 3 Curse-Rotted Greatwood difficulty:
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 - Ranking the bosses in terms of difficulty! :: DARK SOULS™ III General ... [(link)](https://steamcommunity.com/app/374320/discussions/0/361787186432143026/)
-- Hardest Bosses in Dark Souls 3 - MSN [(link)](https://www.msn.com/en-us/news/technology/hardest-dark-souls-3-bosses-ranked/ar-AA1eUUw2)
+- All Dark Souls 3 Bosses In Order - Game Rant [(link)](https://gamerant.com/dark-souls-3-ds3-all-bosses-in-order/)
 
 ## Search results - Dark Souls 3 Curse-Rotted Greatwood strategy:
 - Dark Souls 3 Curse-rotted Greatwood Strategy Guide - YouTube [(link)](https://www.youtube.com/watch?v=6vNCBcnjxL4)

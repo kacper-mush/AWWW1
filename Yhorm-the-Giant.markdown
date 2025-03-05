@@ -18,5 +18,5 @@ Known as the "reclusive lord of the Profaned Capital", Yhorm is the descendant o
 
 ## Search results - Dark Souls 3 Yhorm the Giant strategy:
 - I'm facing Yhorm the Giant and barely do any damage, tips on ... - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/zznw5x/im_facing_yhorm_the_giant_and_barely_do_any/)
-- Yhorm the Giant - Dark Souls 3 Guide - IGN [(link)](https://www.ign.com/wikis/dark-souls-3/Yhorm_the_Giant)
 - How To Beat Yhorm the Giant in Dark Souls 3 - Game Voyagers [(link)](https://gamevoyagers.com/how-to-beat-yhorm-the-giant-in-dark-souls-3/)
+- Yhorm the Giant - Dark Souls 3 Guide - IGN [(link)](https://www.ign.com/wikis/dark-souls-3/Yhorm_the_Giant)

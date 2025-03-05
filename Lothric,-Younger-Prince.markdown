@@ -17,4 +17,4 @@ Lothric, Younger Prince is a Lord of Cinder and Boss in Dark Souls 3. Dark Soul
 ## Search results - Dark Souls 3 Lothric, Younger Prince strategy:
 - How To Beat Lothric, Younger Prince in Dark Souls 3 [(link)](https://gamevoyagers.com/how-to-beat-lothric-younger-prince-in-dark-souls-3/)
 - Lothric, Younger Prince / Boss Guide / Dark Souls 3 / Simple Strategy ... [(link)](https://www.youtube.com/watch?v=19zCKa1ngLY)
-- DARK SOULS III How to defeat Lothric, Younger Prince [parry strategy] [(link)](https://steamcommunity.com/sharedfiles/filedetails/?id=825976693)
+- DARK SOULS III How to defeat Lothric, Younger Prince [parry strategy ... [(link)](https://www.youtube.com/watch?v=FziF9IjvqRg)

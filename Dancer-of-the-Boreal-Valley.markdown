@@ -22,5 +22,5 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 
 ## Search results - Dark Souls 3 Dancer of the Boreal Valley strategy:
 - Dancer of the Boreal Valley strategy : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/99mat1/dancer_of_the_boreal_valley_strategy/)
-- Dancer of the Boreal Valley SL1 Strategy guide (No cheese) [(link)](https://www.reddit.com/r/darksouls3/comments/4ik2pz/dancer_of_the_boreal_valley_sl1_strategy_guide_no/)
-- How To Beat The Dancer of the Boreal Valley in Dark Souls 3 [(link)](https://gamevoyagers.com/how-to-beat-the-dancer-of-the-boreal-valley-in-dark-souls-3/)
+- I had a hard time finding a powerful strategy for dancer of boreal valley [(link)](https://www.reddit.com/r/darksouls3/comments/1dm59bi/i_had_a_hard_time_finding_a_powerful_strategy_for/)
+- Dancer of the Boreal Valley easy fight cheese strategy [(link)](https://www.youtube.com/watch?v=kq-X541aJfY)

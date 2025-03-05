@@ -32,12 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_links:
-  - title: Home
-    url: /
-  - title: List
-    url: /boss_list/
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
