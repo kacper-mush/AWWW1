@@ -22,7 +22,7 @@ title: Dark Souls III Boss List & Guide
 email: kacper.mush@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A comprehensive list of all bosses in Dark Souls III base game, with useful information for each one.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/AWWW1" # the subpath of your site, e.g. /blog
 url: "kacper-mush.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kacper-mush
 
