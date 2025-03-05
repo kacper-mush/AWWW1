@@ -13,10 +13,10 @@ High Lord Wolnir is a massive skeleton covered in jewelry, of which the bracelet
 
 ## Search results - Dark Souls 3 High Lord Wolnir difficulty:
 - Does the difficulty level go up when you kill high lord wolnir..? - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/k5jw36/does_the_difficulty_level_go_up_when_you_kill/)
-- A casual's boss difficulty ranking : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/apa2dp/a_casuals_boss_difficulty_ranking/)
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
+- A casual's boss difficulty ranking : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/apa2dp/a_casuals_boss_difficulty_ranking/)
 
 ## Search results - Dark Souls 3 High Lord Wolnir strategy:
-- Dark Souls 3: High Lord Wolnir Weaknesses & Strategy [(link)](https://www.zleague.gg/theportal/beat-high-lord-wolnir/)
-- High Lord Wolnir can be a very irritating boss : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/4zt7wd/high_lord_wolnir_can_be_a_very_irritating_boss/)
 - High Lord Wolnir / Boss Guide / Dark Souls 3 / Simple Strategy ... [(link)](https://www.youtube.com/watch?v=xG7-YRLNDyQ)
+- Dark Souls 3: High Lord Wolnir Weaknesses & Strategy [(link)](https://www.zleague.gg/theportal/beat-high-lord-wolnir/)
+- How To Beat High Lord Wolnir in Dark Souls 3 - Game Voyagers [(link)](https://gamevoyagers.com/how-to-beat-high-lord-wolnir-in-dark-souls-3/)

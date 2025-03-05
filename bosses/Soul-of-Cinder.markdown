@@ -14,7 +14,7 @@ The Soul of Cinder is seen as the amalgamation of all the Lords of Cinder, where
 ## Search results - Dark Souls 3 Soul of Cinder difficulty:
 - what's the consensus on the difficulty of soul of cinder - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/zzliax/whats_the_consensus_on_the_difficulty_of_soul_of/)
 - Soul of Cinder Difficulty : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/6ntr3f/soul_of_cinder_difficulty/)
-- Why does no one talk about The Soul of Cinder's difficulty level? [(link)](https://www.reddit.com/r/darksouls3/comments/zr0vxc/why_does_no_one_talk_about_the_soul_of_cinders/)
+- Soul of Cinder difficulty. :: DARK SOULS™ III General Discussions [(link)](https://steamcommunity.com/app/374320/discussions/0/357286119114869881/)
 
 ## Search results - Dark Souls 3 Soul of Cinder strategy:
 - Soul of Cinder Boss Guide: Dark Souls 3 Strategies [(link)](https://www.zleague.gg/theportal/beat-soul-of-cinder/)

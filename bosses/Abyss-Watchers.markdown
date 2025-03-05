@@ -14,7 +14,7 @@ The Abyss Watchers are tall humanoids clad in leather armor, wielding a greatswo
 ## Search results - Dark Souls 3 Abyss Watchers difficulty:
 - Are the Abyss Watchers difficult? : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/4kpseq/are_the_abyss_watchers_difficult/)
 - Why on earth do people consider the Abyss Watchers to be easy? [(link)](https://www.reddit.com/r/darksouls3/comments/qseo02/why_on_earth_do_people_consider_the_abyss/)
-- Opinions on the Abyss Watchers boss : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/t6qqd3/opinions_on_the_abyss_watchers_boss/)
+- Are the Abyss Watchers supposed to be such a large difficulty ... - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/pkphri/are_the_abyss_watchers_supposed_to_be_such_a/)
 
 ## Search results - Dark Souls 3 Abyss Watchers strategy:
 - Abyss Watchers - Dark Souls 3 Wiki [(link)](https://darksouls3.wiki.fextralife.com/Abyss+Watchers)

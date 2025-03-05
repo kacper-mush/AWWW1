@@ -14,7 +14,7 @@ Champion Gundyr is a different version of Iudex Gundyr, however he utilizes the 
 ## Search results - Dark Souls 3 Champion Gundyr difficulty:
 - Champion Gundyr - Dark Souls 3 Wiki [(link)](https://darksouls3.wiki.fextralife.com/champion+gundyr)
 - I can't beat the Champion Gundyr : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/j9ltoe/i_cant_beat_the_champion_gundyr/)
-- Champion Gundyr is Dark Souls 3's Best Chekhov's Gun - Game Rant [(link)](https://gamerant.com/dark-souls-3-champion-gundyr-difficulty-series-good-why/)
+- Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 
 ## Search results - Dark Souls 3 Champion Gundyr strategy:
 - Champion Gundyr - Dark Souls 3 Guide - IGN [(link)](https://www.ign.com/wikis/dark-souls-3/Champion_Gundyr)

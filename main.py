@@ -86,7 +86,7 @@ def generate_subpage_md(boss_name: str, subpage_url: str):
         keywords=f"Dark Souls 3 +{boss_name} +strategy", max_results=3
     )
 
-    rel_path = boss_name.replace(" ", "-")
+    rel_path = "bosses/" + boss_name.replace(" ", "-")
 
     with open(rel_path + ".markdown", "w", encoding="utf-8") as md_file:
         # Write the header for Jekyll

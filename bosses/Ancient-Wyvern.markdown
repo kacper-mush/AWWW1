@@ -13,10 +13,10 @@ The Ancient Wyvern is a large grey wyvern, and it's boss fight is unique in that
 
 ## Search results - Dark Souls 3 Ancient Wyvern difficulty:
 - Updated boss difficulty tier list : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/fhl7p3/updated_boss_difficulty_tier_list/)
-- Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 - A casual's boss difficulty ranking : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/apa2dp/a_casuals_boss_difficulty_ranking/)
+- Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 
 ## Search results - Dark Souls 3 Ancient Wyvern strategy:
-- How To Defeat Ancient Wyvern Boss In Dark Souls 3 - TheGamer [(link)](https://www.thegamer.com/dark-souls-3-ancient-wyvern-location-boss-fight-guide/)
 - Dark Souls III - Ancient Wyvern (easy strategy) - YouTube [(link)](https://www.youtube.com/watch?v=rmVdqAKm0aE)
-- Ancient Wyvern / Boss Guide / Dark Souls 3 / Simple Strategy ... [(link)](https://www.youtube.com/watch?v=eRFIOLMHWm4)
+- How To Defeat Ancient Wyvern Boss In Dark Souls 3 - TheGamer [(link)](https://www.thegamer.com/dark-souls-3-ancient-wyvern-location-boss-fight-guide/)
+- Dark Souls 3 In-depth Look at Lore and Strategy - 36 - Ancient Wyvern ... [(link)](https://www.youtube.com/watch?v=VPtpi6vMaRM)

@@ -17,6 +17,6 @@ Vordt of the Boreal Valley is a large quadrupedal creature wearing heavy knights
 - How To Beat Vordt of the Boreal Valley in Dark Souls 3 [(link)](https://gamevoyagers.com/how-to-beat-vordt-of-the-boreal-valley-in-dark-souls-3/)
 
 ## Search results - Dark Souls 3 Vordt of the Boreal Valley strategy:
-- Dark Souls 3 Vordt of Boreal Valley Strategy Guide - YouTube [(link)](https://www.youtube.com/watch?v=U7eMQWaNgfY)
 - How To Beat Vordt of the Boreal Valley in Dark Souls 3 [(link)](https://gamevoyagers.com/how-to-beat-vordt-of-the-boreal-valley-in-dark-souls-3/)
+- Dark Souls 3 Vordt of Boreal Valley Strategy Guide - YouTube [(link)](https://www.youtube.com/watch?v=U7eMQWaNgfY)
 - Dark Souls 3- Vordt of the Boreal Valley Boss Strategy Guide [(link)](https://www.youtube.com/watch?v=7Lw6NZra_EI)

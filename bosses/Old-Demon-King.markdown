@@ -21,6 +21,6 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 
 ## Search results - Dark Souls 3 Old Demon King strategy:
-- Is there a reliable strategy to beat the Old Demon King? [(link)](https://www.reddit.com/r/darksouls3/comments/cyi8it/is_there_a_reliable_strategy_to_beat_the_old/)
 - Dark Souls 3 Old Demon King Strategy Guide - YouTube [(link)](https://www.youtube.com/watch?v=g1nnhNyvDjc)
+- Is there a reliable strategy to beat the Old Demon King? [(link)](https://www.reddit.com/r/darksouls3/comments/cyi8it/is_there_a_reliable_strategy_to_beat_the_old/)
 - Old Demon King / Boss Guide / Dark Souls 3 / Simple Strategy ... [(link)](https://www.youtube.com/watch?v=ew5XSbjf5fE)

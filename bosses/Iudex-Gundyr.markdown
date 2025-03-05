@@ -16,5 +16,5 @@ Iudex Gundyr is a Boss in Dark Souls 3. He is the first boss that players will 
 
 ## Search results - Dark Souls 3 Iudex Gundyr strategy:
 - How To Beat Iudex Gundyr in Dark Souls 3 (Ultimate Guide) [(link)](https://gamevoyagers.com/how-to-beat-iudex-gundyr-in-dark-souls-3-ultimate-guide/)
-- Iudex Gundyr - Dark Souls 3 Guide - IGN [(link)](https://www.ign.com/wikis/dark-souls-3/Iudex_Gundyr)
 - Dark Souls 3 Iudex Gundyr Strategy Guide • Cemetery of Ash Boss [(link)](https://www.youtube.com/watch?v=b8Stv4XVkWM)
+- Iudex Gundyr - Dark Souls 3 Guide - IGN [(link)](https://www.ign.com/wikis/dark-souls-3/Iudex_Gundyr)

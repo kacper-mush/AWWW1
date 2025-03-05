@@ -14,7 +14,7 @@ Known as the "reclusive lord of the Profaned Capital", Yhorm is the descendant o
 ## Search results - Dark Souls 3 Yhorm the Giant difficulty:
 - Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 - Updated boss difficulty tier list : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/fhl7p3/updated_boss_difficulty_tier_list/)
-- About Yhorm's difficulty : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/quf8kv/about_yhorms_difficulty/)
+- So I've run into the infamous Irithyll difficulty spike. I am getting ... [(link)](https://www.reddit.com/r/darksouls3/comments/qo9q7w/so_ive_run_into_the_infamous_irithyll_difficulty/)
 
 ## Search results - Dark Souls 3 Yhorm the Giant strategy:
 - I'm facing Yhorm the Giant and barely do any damage, tips on ... - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/zznw5x/im_facing_yhorm_the_giant_and_barely_do_any/)

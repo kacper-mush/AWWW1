@@ -11,10 +11,10 @@ Lothric, Younger Prince is a Lord of Cinder and Boss in Dark Souls 3. Dark Soul
 
 ## Search results - Dark Souls 3 Lothric, Younger Prince difficulty:
 - my # of attempts (difficulty ranking?) of notable DS3 and DS3 DLC ... [(link)](https://steamcommunity.com/app/374320/discussions/0/4299320559086643569/)
-- Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 - Dark Souls 3 Guide: How to Beat the Twin Princes Easily - Game Rant [(link)](https://gamerant.com/dark-souls-3-twin-princes-guide-216/)
+- Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
 
 ## Search results - Dark Souls 3 Lothric, Younger Prince strategy:
 - How To Beat Lothric, Younger Prince in Dark Souls 3 [(link)](https://gamevoyagers.com/how-to-beat-lothric-younger-prince-in-dark-souls-3/)
 - Lothric, Younger Prince / Boss Guide / Dark Souls 3 / Simple Strategy ... [(link)](https://www.youtube.com/watch?v=19zCKa1ngLY)
-- DARK SOULS III How to defeat Lothric, Younger Prince [parry strategy ... [(link)](https://www.youtube.com/watch?v=FziF9IjvqRg)
+- All Dark Souls 3 Bosses In Order - Game Rant [(link)](https://gamerant.com/dark-souls-3-ds3-all-bosses-in-order/)
