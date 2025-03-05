@@ -1,4 +1,4 @@
-_site
+venv
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
