@@ -9,6 +9,7 @@ import re
 URL = "https://darksouls3.wiki.fextralife.com/Bosses"
 BASE_URL = "https://darksouls3.wiki.fextralife.com/"
 BOSS_PAGE_REL_PATH = "bosses/"
+CACHE_REL_PATH = "ddgs_cache/"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
@@ -108,7 +109,7 @@ def get_additional_info_DDGS(boss_name: str):
     results = dict()
 
     # Check if the file exists
-    cache_filepath = "ddgs_cache/" + boss_name.replace(" ", "-") + ".json"
+    cache_filepath = CACHE_REL_PATH + boss_name.replace(" ", "-") + ".json"
     if os.path.exists(cache_filepath):
         # If the file exists, read its content
         with open(cache_filepath, "r") as file:
@@ -133,7 +134,8 @@ def get_additional_info_DDGS(boss_name: str):
     for idx, result in enumerate(results["strategy"]):
         results["strategy"][idx]["title"] = escape_markdown(result["title"])
 
-     # Save the generated content to the file
+    # Save the generated content to the file
+    os.makedirs(os.path.dirname(CACHE_REL_PATH), exist_ok=True)
     with open(cache_filepath, "w") as file:
         json.dump(results, file)
     print("Generated and saved in cache.")
@@ -172,6 +174,16 @@ def generate_subpage_markdown(boss_info: dict, filepath: str):
 
 
 def generate_main_md():
+    # Create the directory for bosses
+    os.makedirs(os.path.dirname(BOSS_PAGE_REL_PATH), exist_ok=True)
+    # Wipe everything that was there
+    for filename in os.listdir(BOSS_PAGE_REL_PATH):
+        file_path = os.path.join(BOSS_PAGE_REL_PATH, filename)
+        os.remove(file_path)
+
+    # Wipe the old list
+    os.remove("boss_list.markdown")
+    
     info_dicts = scrape_boss_table()
     # Write the data in a markdown file
     with open("boss_list.markdown", "w", encoding="utf-8") as md_file:

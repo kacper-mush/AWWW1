@@ -53,6 +53,7 @@ exclude:
   - .venv/
   - main.py
   - ddgs_cache/
+  - requirements.txt
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
