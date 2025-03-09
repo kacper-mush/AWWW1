@@ -12,6 +12,8 @@ title: List
 - **Resistance**: Dark/Bleed
 - **Immunity**: Poison/Toxic
 
+<br>
+
 ---
 ## *Vordt of the Boreal Valley* [[more info]]({{ site.baseurl }}/bosses/Vordt-of-the-Boreal-Valley)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/vordt_of_the_boreal_valley_trophy.PNG" width="150" height="150" />
@@ -19,6 +21,8 @@ title: List
 - **Weakness**: Fire/Dark
 - **Resistance**: Slash/Thrust
 - **Immunity**: Poison/Toxic  Bleed/Frost
+
+<br>
 
 ---
 ## *Curse-Rotted Greatwood* [[more info]]({{ site.baseurl }}/bosses/Curse-Rotted-Greatwood)
@@ -28,6 +32,8 @@ title: List
 - **Resistance**: None
 - **Immunity**: Poison/Toxic  Bleed/Frost
 
+<br>
+
 ---
 ## *Crystal Sage* [[more info]]({{ site.baseurl }}/bosses/Crystal-Sage)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/crystal_sage_trophy.PNG" width="150" height="150" />
@@ -35,6 +41,8 @@ title: List
 - **Weakness**: Slash/Thrust/Strike  Poison/Toxic
 - **Resistance**: Magic
 - **Immunity**: None
+
+<br>
 
 ---
 ## *Abyss Watchers* [[more info]]({{ site.baseurl }}/bosses/Abyss-Watchers)
@@ -44,6 +52,8 @@ title: List
 - **Resistance**: Dark/Bleed
 - **Immunity**: Poison/Toxic
 
+<br>
+
 ---
 ## *Deacons of the Deep* [[more info]]({{ site.baseurl }}/bosses/Deacons-of-the-Deep)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/deacons_of_the_deep_trophy.PNG" width="150" height="150" />
@@ -51,6 +61,8 @@ title: List
 - **Weakness**: Slash/Thrust/Strike  Hollowslayer GS
 - **Resistance**: Magic/Dark  Bleed
 - **Immunity**: None
+
+<br>
 
 ---
 ## *High Lord Wolnir* [[more info]]({{ site.baseurl }}/bosses/High-Lord-Wolnir)
@@ -60,6 +72,8 @@ title: List
 - **Resistance**: Dark
 - **Immunity**: Poison/Toxic  Bleed/Frost
 
+<br>
+
 ---
 ## *Old Demon King* [[more info]]({{ site.baseurl }}/bosses/Old-Demon-King)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/old_demon_king_trophy.PNG" width="150" height="150" />
@@ -67,6 +81,8 @@ title: List
 - **Weakness**: Dark  Black Knight Weapons
 - **Resistance**: Fire
 - **Immunity**: Bleed/Frost
+
+<br>
 
 ---
 ## *Pontiff Sulyvahn* [[more info]]({{ site.baseurl }}/bosses/Pontiff-Sulyvahn)
@@ -76,6 +92,8 @@ title: List
 - **Resistance**: Poison/Toxic  Bleed/Frost
 - **Immunity**: None
 
+<br>
+
 ---
 ## *Yhorm the Giant* [[more info]]({{ site.baseurl }}/bosses/Yhorm-the-Giant)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/lord_of_cinder_yhorm_the_giant.PNG" width="150" height="150" />
@@ -83,6 +101,8 @@ title: List
 - **Weakness**: Storm Ruler  Lightning
 - **Resistance**: Physical/Magic/Dark
 - **Immunity**: Fire/Poison/Toxic  Bleed/Frost
+
+<br>
 
 ---
 ## *Aldrich, Devourer of Gods* [[more info]]({{ site.baseurl }}/bosses/Aldrich,-Devourer-of-Gods)
@@ -92,6 +112,8 @@ title: List
 - **Resistance**: Magic/Dark
 - **Immunity**: Poison/Toxic
 
+<br>
+
 ---
 ## *Dancer of the Boreal Valley* [[more info]]({{ site.baseurl }}/bosses/Dancer-of-the-Boreal-Valley)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/dancer_of_the_boreal_valley_trophy.PNG" width="150" height="150" />
@@ -99,6 +121,8 @@ title: List
 - **Weakness**: Dark/Lightning/Strike
 - **Resistance**: Bleed
 - **Immunity**: Poison/Toxic/Frost
+
+<br>
 
 ---
 ## *Dragonslayer Armour* [[more info]]({{ site.baseurl }}/bosses/Dragonslayer-Armour)
@@ -108,6 +132,8 @@ title: List
 - **Resistance**: Dark/Lightning
 - **Immunity**: Poison/Toxic/Bleed
 
+<br>
+
 ---
 ## *Oceiros, the Consumed King* [[more info]]({{ site.baseurl }}/bosses/Oceiros,-the-Consumed-King)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/oceiros_the_consumed_king_trophy.PNG" width="150" height="150" />
@@ -115,6 +141,8 @@ title: List
 - **Weakness**: Lightning
 - **Resistance**: Magic/Bleed
 - **Immunity**: Poison/Toxic
+
+<br>
 
 ---
 ## *Champion Gundyr* [[more info]]({{ site.baseurl }}/bosses/Champion-Gundyr)
@@ -124,6 +152,8 @@ title: List
 - **Resistance**: Poison/Toxic/Bleed
 - **Immunity**: None
 
+<br>
+
 ---
 ## *Lothric, Younger Prince* [[more info]]({{ site.baseurl }}/bosses/Lothric,-Younger-Prince)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/lord_of_cinder_lothric_younger_prince.PNG" width="150" height="150" />
@@ -131,6 +161,8 @@ title: List
 - **Weakness**: (Lorian) Lightning/Frost  (Lothric) Slash/Thrust/Strike
 - **Resistance**: Dark
 - **Immunity**: Poison/Toxic
+
+<br>
 
 ---
 ## *Ancient Wyvern* [[more info]]({{ site.baseurl }}/bosses/Ancient-Wyvern)
@@ -140,6 +172,8 @@ title: List
 - **Resistance**: Poison/Toxic/Bleed
 - **Immunity**: None
 
+<br>
+
 ---
 ## *Nameless King* [[more info]]({{ site.baseurl }}/bosses/Nameless-King)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/the_nameless_king_trophy.PNG" width="150" height="150" />
@@ -148,6 +182,8 @@ title: List
 - **Resistance**: (King of the Storm)  Fire/Bleed  Poison/Toxic  (Nameless King)  Lightning
 - **Immunity**: (King of the Storm)  None  (Nameless King)  Poison/Toxic
 
+<br>
+
 ---
 ## *Soul of Cinder* [[more info]]({{ site.baseurl }}/bosses/Soul-of-Cinder)
 <img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/tumblr_o25lubbSXv1qzwtdlo1_1280.jpg" width="150" height="150" />
@@ -155,3 +191,6 @@ title: List
 - **Weakness**: Lightning
 - **Resistance**: Fire
 - **Immunity**: Poison/Toxic
+
+<br>
+

@@ -1,0 +1,28 @@
+---
+---
+@use "minima/variables" as vars;
+
+// Define defaults for each variable.
+vars.$text-color:       #e2d8d8;
+vars.$background-color: #1f1b18;
+vars.$brand-color:      #DAC141;
+
+// Not so grey really but oh well
+vars.$grey-color:       #d6d2ba;
+
+@use "minima";
+
+.site-title {
+     // Make it a big bigger
+    @include vars.relative-font-size(2);
+
+    // Change the color from dark grey to grey 
+    &,
+    &:visited {
+      color: vars.$grey-color;
+    }
+  }
+
+.footer-col p {
+    font-style: italic;
+}

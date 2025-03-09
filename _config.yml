@@ -20,14 +20,17 @@
 
 title: Dark Souls III Boss List & Guide
 email: kacper.mush@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A comprehensive list of all bosses in Dark Souls III base game, with useful information for each one.
-baseurl: "/AWWW1" # the subpath of your site, e.g. /blog
-url: "kacper-mush.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: "Stay safe, friend. Don't you dare go hollow."
+url: "https://students.mimuw.edu.pl"
+baseurl: "/~kg459029/www1"
 github_username:  kacper-mush
+author: Kacper Grzybowski
 
 # Build settings
 theme: minima
+
+sass:
+  style: compressed
 
 plugins:
   - jekyll-feed
@@ -41,8 +44,9 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - venv/
+  - .venv/
   - main.py
+  - ddgs_cache/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

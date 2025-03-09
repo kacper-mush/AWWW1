@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-# *Curse-Rotted Greatwood*
-<img src="https://darksouls3.wiki.fextralife.com//file/Dark-Souls-3/curse-rotted_greatwood_trophy.PNG" width="150" height="150" />
+# Curse\-Rotted Greatwood
 
 ## Basic information:
 Curse\-Rotted Greatwood is a Boss in Dark Souls 3. This Dark Souls 3 Curse\-Rotted Greatwood Guide features locations, strategies and videos on how to defeat Curse\-Rotted Greatwood easily, as well as tips, weaknesses, trivia and lore notes for the Greatwood boss.
@@ -20,12 +19,7 @@ Bosses are unique and challenging Enemies that drop Boss Souls capable of being 
 
 [[More information on this site...]](https://darksouls3.wiki.fextralife.com//Curse-Rotted+Greatwood)
 
-## Search results - Dark Souls 3 Curse-Rotted Greatwood difficulty:
-- A casual's boss difficulty ranking : r/darksouls3 - Reddit [(link)](https://www.reddit.com/r/darksouls3/comments/apa2dp/a_casuals_boss_difficulty_ranking/)
-- Dark Souls 3 Bosses Ranked by Difficulty - Game Voyagers [(link)](https://gamevoyagers.com/dark-souls-3-bosses-ranked-difficulty/)
-- Hardest Bosses in Dark Souls 3 - MSN [(link)](https://www.msn.com/en-us/gaming/other/hardest-bosses-in-dark-souls-3/ar-AA1eUUw2)
+## Search results - Dark Souls 3 Curse\-Rotted Greatwood difficulty:
+- EOF [(link)](http://www.google.com/search?hl=en&q=Dark+Souls+3++Curse\-Rotted+Greatwood++difficulty)
 
-## Search results - Dark Souls 3 Curse-Rotted Greatwood strategy:
-- Dark Souls 3 Curse-rotted Greatwood Strategy Guide - YouTube [(link)](https://www.youtube.com/watch?v=6vNCBcnjxL4)
-- Dark Souls 3- Curse-rotted Greatwood Boss Strategy Guide [(link)](https://www.youtube.com/watch?v=ECo-NkM3WmY)
-- Dark Souls 3: 6 Bosses Weak To Fire - Game Rant [(link)](https://gamerant.com/dark-souls-3-bosses-weak-to-fire/)
+## Search results - Dark Souls 3 Curse\-Rotted Greatwood strategy:
