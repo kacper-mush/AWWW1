@@ -21,8 +21,12 @@
 title: Dark Souls III Boss List & Guide
 email: kacper.mush@gmail.com
 description: "Stay safe, friend. Don't you dare go hollow."
-url: "https://students.mimuw.edu.pl"
-baseurl: "/~kg459029/www1"
+# FOR STUDENTS
+# url: "https://students.mimuw.edu.pl"
+# baseurl: "/~kg459029/www1"
+# FOR GITHUB
+url: "https://kacper-mush.github.io"
+baseurl: "/AWWW1"
 github_username:  kacper-mush
 author: Kacper Grzybowski
 
