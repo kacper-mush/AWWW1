@@ -33,6 +33,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install Python dependencies (if any)
+        run: pip install -r requirements.txt || echo "No dependencies"
+      - name: Restore Cache
+        uses: actions/cache@v3.4.3
+        with:
+          path: ddgs_cache/
+          key: ddgs-cache-${{ github.run_id }}
+          restore-keys: |
+            ddgs-cache-
+      - name: Run Markdown Generation Script (Scraper)
+        run: python main.py
+      - name: Save cache
+        uses: actions/cache@v3.4.3
+        with:
+          path: ddgs_cache/
+          key: ddgs-cache-${{ github.run_id }}
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
