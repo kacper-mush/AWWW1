@@ -182,7 +182,10 @@ def generate_main_md():
         os.remove(file_path)
 
     # Wipe the old list
-    os.remove("boss_list.markdown")
+    try:
+        os.remove("boss_list.markdown")
+    except:
+        pass
     
     info_dicts = scrape_boss_table()
     # Write the data in a markdown file
