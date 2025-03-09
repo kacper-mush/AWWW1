@@ -1,25 +1,24 @@
 ---
 ---
-@use "minima/variables" as vars;
 
 // Define defaults for each variable.
-vars.$text-color:       #e2d8d8;
-vars.$background-color: #1f1b18;
-vars.$brand-color:      #DAC141;
+$text-color:       #e2d8d8;
+$background-color: #1f1b18;
+$brand-color:      #DAC141;
 
 // Not so grey really but oh well
-vars.$grey-color:       #d6d2ba;
+$grey-color:       #d6d2ba;
 
-@use "minima";
+@import "minima";
 
 .site-title {
      // Make it a big bigger
-    @include vars.relative-font-size(2);
+    @include relative-font-size(2);
 
     // Change the color from dark grey to grey 
     &,
     &:visited {
-      color: vars.$grey-color;
+      color: $grey-color;
     }
   }
 

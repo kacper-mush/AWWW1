@@ -30,7 +30,9 @@ author: Kacper Grzybowski
 theme: minima
 
 sass:
-  style: compressed
+  load_paths:
+    - _sass
+    - assets
 
 plugins:
   - jekyll-feed
