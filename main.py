@@ -5,6 +5,7 @@ import time
 import json
 import os
 import re
+import cloudscraper
 
 URL = "https://darksouls3.wiki.fextralife.com/Bosses"
 BASE_URL = "https://darksouls3.wiki.fextralife.com/"
@@ -44,9 +45,12 @@ def escape_markdown(text):
 
 
 def scrape_boss_table():
-    response = requests.get(URL, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
+    scraper = cloudscraper.create_scraper()
+    response = scraper.get(URL)
+    #response = requests.get(URL, headers=HEADERS)
 
+    soup = BeautifulSoup(response.text, "html.parser")
+  
     # Find the boss table, it's the first one
     table = soup.find("table", class_="wiki_table")
     rows = table.find_all("tr")
@@ -87,7 +91,9 @@ def scrape_boss_table():
     return info_dicts
 
 def scrape_boss_description(subpage_url: str):
-    response = requests.get(subpage_url, headers=HEADERS)
+    scraper = cloudscraper.create_scraper()
+    response = scraper.get(subpage_url)
+    #response = requests.get(subpage_url, headers=HEADERS)
     soup = BeautifulSoup(response.text, "html.parser")
 
     # Find the bounding box
